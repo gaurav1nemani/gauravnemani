@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurav1nemani
+- 👋 Hi, I’m @gauravnemani
 - 👀 I’m interested in Formula 1 and urban sketching
 - 🌱 I’m currently learning data analytics, data visualisation and data forcasting
 - 💞️ I’m looking to collaborate on data forcasting projects in the insurance industry
