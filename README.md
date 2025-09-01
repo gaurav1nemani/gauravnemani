@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @gauravnemani
-- 👀 I’m interested in Formula 1 and urban sketching
-- 🌱 I’m currently learning data analytics, data visualisation and data forcasting
-- 💞️ I’m looking to collaborate on data forcasting projects in the insurance industry
-- 📫 How to reach me on my email
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: facts are fun
+Hi!
+I am a Data Enthusiast 💻 and Risk Whisperer 📊 
+⭐ Chasing insights that don’t just inform, but inspire action.
 
-<!---
-gaurav1nemani/gaurav1nemani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️ I’m currently working on Insurance Fraud Detection: EDA Analysis + Prediction
+- 🎓 I’m currently studying Data Science and Big Data Analystics
+- 🤝 I’m looking to collaborate on Data Science/ Analytic Projects/ Risk Analysis
